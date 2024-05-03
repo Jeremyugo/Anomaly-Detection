@@ -19,3 +19,6 @@ Anomaly detection can be performed on both univariate (single feature) and multi
 ## Data
 
 The notebook utilizes Daily Delhi Climate data for training and testing. The training data is loaded from "DailyDelhiClimateTrain.csv", and the testing data is loaded from "DailyDelhiClimateTest.csv".
+
+## Result - anomalous instances
+![image](https://github.com/Jeremyugo/Anomaly-Detection/assets/36512525/cf3e5a12-b939-4189-a124-23bb40d7683d)
